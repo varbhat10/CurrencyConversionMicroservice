@@ -43,3 +43,6 @@ Start the FastAPI server:
 
 ```bash
 uvicorn main:app --reload
+
+![uml](https://github.com/user-attachments/assets/bce80189-4005-42d9-adcf-664d4b2a523a)
+
